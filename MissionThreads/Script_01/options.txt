@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\GitHub\Script_01
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\github\script_01\\logfile.log
+c:\github\script_01\\combined_Script_01.c
+c:\github\script_01\\pre_cci.c
